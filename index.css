@@ -2,3 +2,15 @@ body{
     background-color: #1e1f22;
     color: #fff;
 }
+.topbar{
+    background-color: #2b2d31;
+    border-bottom: 1px solid #1a1b1e;
+    height: 40px;
+}
+.topbar img{
+    width: 40px;
+    height: 40px;
+}
+.topbar h1{
+    font-size: 30px;
+}
